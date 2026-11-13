@@ -1,0 +1,67 @@
+SG MOBILES & GIFTS - WEBSITE GUIDE
+====================================
+
+FILES IN THIS FOLDER:
+- index.html     → Your main website file
+- manifest.json  → Makes it installable as an app on Android
+- sw.js          → Makes it work offline (PWA)
+- logo-gifts.png → PUT YOUR SG GIFTS LOGO HERE (rename your file to this)
+- logo-mobile.png → PUT YOUR SG MOBILE LOGO HERE (rename your file to this)
+
+HOW TO VIEW YOUR WEBSITE:
+--------------------------
+Just double-click "index.html" to open it in your browser.
+Works in Chrome, Firefox, Edge.
+
+HOW TO ADD YOUR LOGOS:
+-----------------------
+1. Copy your logo files into this folder
+2. Rename the SG Gifts logo file to: logo-gifts.png
+3. Rename the SG Mobiles logo file to: logo-mobile.png
+The logos will automatically appear on the website.
+
+HOW TO PUBLISH ONLINE (FREE):
+-------------------------------
+Option 1 - Netlify (Easiest, Free):
+1. Go to netlify.com
+2. Sign up with your Google/email
+3. Click "Add new site" → "Deploy manually"
+4. Drag and drop this entire folder onto the page
+5. Your website goes live instantly!
+6. You get a free URL like: sg-mobiles-gifts.netlify.app
+
+Option 2 - Get a custom domain (.in):
+1. Buy sgmobilesandgifts.in from GoDaddy or Namecheap (~₹700/year)
+2. Connect it to your Netlify site (free instructions on Netlify)
+
+HOW TO INSTALL AS APP ON ANDROID:
+-----------------------------------
+1. First host the website online (see above)
+2. Open the website in Chrome on your Android phone
+3. Tap the 3-dot menu → "Add to Home Screen"
+4. It installs like an app — no Play Store needed!
+
+WHAT'S ALREADY IN THE WEBSITE:
+--------------------------------
+✅ Home page with your shop name and tagline
+✅ Mobile Services section (all 7 services)
+✅ Gifts section (all 10 gift types)
+✅ Why Choose Us section
+✅ 3 Locations (Hosur, Krishnagiri, Chennai)
+✅ Contact form that opens WhatsApp automatically
+✅ Floating WhatsApp button (pulsing green)
+✅ Instagram link
+✅ YouTube link
+✅ Mobile responsive (works on all screen sizes)
+✅ Smooth animations
+✅ Scroll to top button
+✅ PWA ready (installable as app)
+
+WHATSAPP NUMBER USED: 9487793998
+INSTAGRAM: @sgmobilesandgifts
+
+NOTE: I noticed your logo shows 9487737998 but you gave me 9487793998.
+Please check and correct the number if needed in index.html.
+Search for "9487793998" in the file and replace with correct number.
+
+For any help, feel free to ask!
